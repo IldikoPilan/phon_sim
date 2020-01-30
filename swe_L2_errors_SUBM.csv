@@ -1,0 +1,456 @@
+original	corrected	source	cefr	context
+hanlar 	handlar	SpIn69_4	B1	
+ballet 	balett	SpIn69_4	B1	
+leklion 	lektion	SpIn69_4	B1	
+brukor 	brukar	SpIn69_4	B1	
+medrasser	madrasser	SpIn69_4	B1	
+steijkar 	strejkar	SpIn69_4	B1	
+bibliotekare 	bibliotekarie	SpIn69_4	B1	
+ungdomkort 	ungdomskort	SpIn69_4	B1	
+alskar 	älskar	SpIn69_4	B1	
+fortsäta 	fortsätta	SpIn69_4	B1	
+fotten 	foten	SpIn69_2	A2	
+krammade 	kramade	SpIn69_2	A2	
+rödd 	röd	SpIn69_2	A2	
+origt 	oroligt	SpIn69_2	A2	
+budde 	bodde	SpIn69_2	A2	
+berger	berg	SpIn69_2	A2	
+programen 	programmen	SpIn69_2	A2	
+spännade	spännande	SpIn69_2	A2	
+jätt 	jätte	SpIn69_2	A2	
+Estetika 	estetiska	SpIn70_1	A2	
+födelsdag 	födelsedag	SpIn70_1	A2	
+trojon 	tröjor	SpIn70_1	A2	
+altid 	alltid	SpIn70_1	A2	
+annolurund 	annorlunda	SpIn70_2	A2	
+expel	exempel	SpIn70_2	A2	
+zooo	zoo	SpIn70_2	A2	
+moromor 	mormor	SpIn70_2	A2	
+danse 	dansa	SpIn70_2	A2	
+papa 	pappa	SpIn70_2	A2	
+tjer 	tjejer	SpIn70_2	A2	
+följar 	följer	SpIn70_2	A2	
+darför 	därför	SpIn70_2	A2	
+upvuxen 	uppvuxen	SpIn70_3	A2	
+länger	länder	SpIn70_3	A2	
+liger	ligger	SpIn35_1	A1	
+monikor	människor	SpIn35_1	A1	
+åckså	också	SpIn35_1	A1	
+borjer	börjar	SpIn35_1	A1	
+tva	två	SpIn35_1	A1	
+siskon	syskon	SpIn35_1	A1	
+sisterar	systrar	SpIn35_1	A1	
+boroder	bröder	SpIn35_1	A1	
+isnela	snäll	SpIn35_1	A1	
+läga	laga	SpIn35_1	A1	
+Futball	fotboll	SpIn35_1	A1	
+bovomennera	promenera	SpIn35_1	A1	
+sveria	sverige	SpIn35_1	A1	
+åstid	årstid	SpIn35_1	A1	
+vinten	vinter	SpIn35_1	A1	
+ratserna	rasterna	SpIn10_1	A1	
+driker	dricker	SpIn10_1	A1	
+Geograt	geografi	SpIn10_1	A1	
+budminton	badminton	SpIn10_1	A1	
+spåvagn	spårvagn	SpIn10_1	A1	
+tilla	till	SpIn10_1	A1	
+älvsnadden	älvsnabben	SpIn10_1	A1	
+nin	min	SpIn17_1	A1	
+nan	han	SpIn17_1	A1	
+sendan	sedan	SpIn17_1	A1	
+gar	gav	SpIn17_1	A1	
+pepper	papper	SpIn17_1	A1	
+ingentig	ingenting	SpIn17_1	A1	
+Faktigt	faktiskt	SpIn17_1	A1	
+skrattada	skrattade	SpIn17_1	A1	
+vackera	vackra	SpIn77_6	B1	
+kinesiskar	kinesiskor	SpIn77_6	B1	
+bagagerna	bagagen	SpIn77_6	B1	
+klock	klok	SpIn77_6	B1	
+bagager	bagagen	SpIn77_6	B1	
+tiopunkt	tidpunkt	SpIn77_6	B1	
+ungdomer	ungdomar	SpIn77_6	B1	
+föräldra	föräldrar	SpIn77_6	B1	
+känne	känna	SpIn79_1	B1	
+fränke	fräkne	SpIn79_1	B1	
+leend	leende	SpIn79_1	B1	
+breskriva	beskriva	SpIn79_1	B1	
+längt	länge	SpIn79_1	B1	
+blygg	blyg	SpIn79_1	B1	
+storre	större	SpIn79_2	B1	
+der	där	SpIn79_2	B1	
+drömer	drömmar	SpIn79_2	B1	
+jätemycket	jättemycket	SpIn79_3	A2	
+varja	varje	SpIn79_3	A2	
+ländar	länder	SpIn79_3	A2	
+frokost	frukost	SpIn79_4	A2	
+flytade	flyttade	SpIn79_4	A2	
+håmtade	hämtade	SpIn79_4	A2	
+cafee	cafe	SpIn79_4	A2	
+nar	när	SpIn74_3	B1	
+gratt	grät	SpIn74_3	B1	
+varandrar	varandra	SpIn74_3	B1	
+händ	hand	SpIn74_3	B1	
+promenerad	promenerade	SpIn74_3	B1	
+resturan	restaurang	SpIn74_3	B1	
+kande	kunde	SpIn74_3	B1	
+släktigen	släktingar	SpIn74_3	B1	
+klädder	kläder	SpIn74_3	B1	
+grack	drack	SpIn74_3	B1	
+fänns	fanns	SpIn74_3	B1	
+fotter	fötter	SpIn74_3	B1	
+klädderna	kläderna	SpIn74_3	B1	
+ckoklad	choklad	SpIn74_3	B1	
+gammla	gamla	SpIn74_3	B1	
+hella	hela	SpIn74_3	B1	
+dor	dör	SpIn74_3	B1	
+vacna	vaknar	SpIn84_1	A1	
+tålv	tolv	SpIn84_1	A1	
+frukest	frukost	SpIn84_1	A1	
+matt	mat	SpIn84_1	A1	
+berija	börjar	SpIn84_1	A1	
+sittar	sitter	SpIn84_1	A1	
+sovar	sover	SpIn84_1	A1	
+vacka	vaknar	SpIn84_1	A1	
+berijar	börjar	SpIn84_1	A1	
+Sönda	söndag	SpIn39_2	A1	
+klub	klubb	SpIn39_2	A1	
+bilijar	biljard	SpIn39_2	A1	
+dricke	dricker	SpIn39_2	A1	
+säjer	säger	SpIn39_2	A1	
+oppna	öppna	SpIn39_2	A1	
+leptop	laptop	SpIn39_2	A1	
+mårgön	morgon	SpIn39_2	A1	
+micke	mycket	SpIn39_2	A1	
+braaa	bra	SpIn39_2	A1	
+poijke	pojke	SpIn76_2	A2	
+ungäfer	ungefär	SpIn76_2	A2	
+tillsamans	tillsammans	SpIn76_2	A2	
+grur	gruva	SpIn76_2	A2	
+at	att	SpIn76_2	A2	
+honod	honom	SpIn76_2	A2	
+mänissko	människor	SpIn76_2	A2	
+stejkar	strejkar	SpIn76_2	A2	
+hadde	hade	SpIn76_2	A2	
+huvudpensn	huvudperson	SpIn76_2	A2	
+tijer	tjejer	SpIn76_2	A2	
+tänke	tanke	SpIn76_2	A2	
+poijkar	pojkar	SpIn76_2	A2	
+fotbol	fotboll	SpIn76_2	A2	
+biblotek	bibliotek	SpIn76_2	A2	
+talet	balett	SpIn76_2	A2	
+biblote	bibliotek	SpIn76_2	A2	
+böcken	boken	SpIn76_2	A2	
+injen	ingen	SpIn76_2	A2	
+skiland	skillnad	SpIn76_2	A2	
+manniskor	människor	SpIn76_2	A2	
+vådrett	vädret	SpIn51_1	A2	
+hjörtat	hjärtat	SpIn51_1	A2	
+kompiser	kompisar	SpIn52_1	A2	
+äka	åka	SpIn52_1	A2	
+hene	henne	SpIn52_1	A2	
+kvällerna	kvällarna	SpIn52_1	A2	
+såker	saker	SpIn52_1	A2	
+krykan	kyrkan	SpIn52_1	A2	
+picknik	picknick	SpIn52_1	A2	
+tröts	trots	SpIn52_1	A2	
+Lesnär	lyssnar	SpIn11_1	A1	
+music	musik	SpIn11_1	A1	
+rasteeran	raster	SpIn11_1	A1	
+sporbagn	spårvagn	SpIn11_1	A1	
+fottboll	fotboll	SpIn11_1	A1	
+sprbangn	spårvagn	SpIn11_1	A1	
+ochså	också	SpIn11_1	A1	
+liggade	låg	SpIn48_1	B1	
+sofen	soffan	SpIn48_1	B1	
+ringe	ringde	SpIn48_1	B1	
+bakteria	bakterie	SpIn48_1	B1	
+mediån	medicin	SpIn48_1	B1	
+förktarade	förklarade	SpIn48_1	B1	
+jattebra	jättebra	SpIn48_1	B1	
+fortsättar	fortsätter	SpIn48_1	B1	
+kande	kände	SpIn41_2	B1	
+dåm	de	SpIn41_2	B1	
+undärsökte	undersökte	SpIn41_2	B1	
+Sän	Sen	SpIn41_2	B1	
+tablete	tablett	SpIn41_2	B1	
+moron	morgon	SpIn41_2	B1	
+vaningen	våningen	SpIn12_1	A1	
+vånin	våning	SpIn12_1	A1	
+Grätis	Gratis	SpIn12_1	A1	
+sudgeme	suddgummi	SpIn12_1	A1	
+datore	datorer	SpIn12_1	A1	
+leserne	lyssnar	SpIn12_1	A1	
+Idrot	idrott	SpIn12_1	A1	
+klokan	klockan	SpIn12_1	A1	
+esprven	spårvagn	SpIn12_1	A1	
+komer	kommer	SpIn12_1	A1	
+sveniska	svenska	SpIn27_1	A1	
+isveria	sverige	SpIn27_1	A1	
+adres	adress	SpIn27_1	A1	
+systerar	systrar	SpIn27_1	A1	
+gitar	gitarr	SpIn27_1	A1	
+Lysana	lyssna	SpIn27_1	A1	
+muik	musik	SpIn27_1	A1	
+Mander	månader	SpIn27_1	A1	
+skaln	skolan	SpIn27_1	A1	
+sparbagn	spårvagn	SpIn27_1	A1	
+diraker	dricker	SpIn27_1	A1	
+mjilk	mjölk	SpIn27_1	A1	
+juss	jus	SpIn27_1	A1	
+åttar	äter	SpIn27_1	A1	
+fins	finns	SpIn27_1	A1	
+paika	pojkar	SpIn27_1	A1	
+stopa	stoppa	SpelEx-L		
+sto	stå 	SpelEx-L		
+enbete	ämbete 	SpelEx-L		
+mertropol	metropol	SpelEx-L		
+relevanz	relevans	SpelEx-L		
+gro	grå	SpelEx-L		
+arel	areal	SpelEx-L		
+otal	åtal	SpelEx-L		
+skat	skatt	SpelEx-L		
+noligande	närliggande	SpelEx-L		
+löntaggare	löntagare 	SpelEx-L		
+innebara	innebära	SpelEx-L		
+orölig	orörlig	SpelEx-L		
+oröligt	orörlig	SpelEx-L		
+hälpmedel	hjälpmedel	SpelEx-L		
+synset	synsätt	SpelEx-L		
+kontakt	kontrakt	SpelEx-L		
+skida	skita	SpelEx-L		
+gynsamm	gynnsam	SpelEx-L		
+ginseng	gynnsam	SpelEx-L		
+beväppna	beväpna	SpelEx-L		
+intenfisiera	intensifier	SpelEx-L		
+inntensifiera	intensifier	SpelEx-L		
+lystig	lustig	SpelEx-L		
+lystik	lustig	SpelEx-L		
+lustik	lustig	SpelEx-L		
+attrubut	attribut	SpelEx-L		
+albom	album	SpelEx-L		
+förb'ttra	förbättra	SpelEx-L		
+sattelit	satellite	SpelEx-L		
+ovänighet	oenighet	SpelEx-L		
+förut	förort	SpelEx-L		
+förortt	förort	SpelEx-L		
+utsenda	utsända	SpelEx-L		
+bundförvant	bundsförvant	SpelEx-L		
+simhal	simhall	SpelEx-L		
+stil	still	SpelEx-L		
+sperra	spärra	SpelEx-L		
+käsnlighet	känslighet	SpelEx-L		
+benämnig	benämning	SpelEx-L		
+mutinatunell	multinationell	SpelEx-L		
+svet	svett	SpelEx-L		
+stränd	sträng	SpelEx-L		
+kännetrekn	kännetecken	SpelEx-L		
+imperiasm	imperialism	SpelEx-L		
+avslutnings	avslutningsvis	SpelEx-L		
+horig	hårig	SpelEx-L		
+ende	ande	SpelEx-L		
+förestäla	föreställa	SpelEx-L		
+funngera	fungera	SpelEx-L		
+avgang	avgång	SpelEx-L		
+kakkelplatta	kakelplatta	SpelEx-L		
+famm	famn	SpelEx-L		
+fordom	fördom	SpelEx-L		
+tita	titta	SpelEx-L		
+renvera	renovera	SpelEx-L		
+valstånd	välstånd	SpelEx-L		
+beskydarre	beskyddare	SpelEx-L		
+tjeck	check	SpelEx-L		
+menus	manus	SpelEx-L		
+oerhorlt	oerhörd	SpelEx-L		
+tume	tumme	SpelEx-L		
+stifa	stifta	SpelEx-L		
+misslykad	misslyckad	SpelEx-L		
+ställningstagende	ställningstagande	SpelEx-L		
+lidelse	lydelse	SpelEx-L		
+forbund	förbund	SpelEx-L		
+välsiggna	välsigna	SpelEx-L		
+parol	paroll	SpelEx-L		
+växelkus	växelkurs	SpelEx-L		
+skeep	skepp	SpelEx-L		
+finde	fiende	SpelEx-L		
+bostavligen	bokstavligen	SpelEx-L		
+idell	ideell	SpelEx-L		
+annalunda	annorlunda	SpelEx-L		
+extrent	extremt	SpelEx-L		
+autetinsk	autentisk	SpelEx-L		
+brödaskap	brödraskap	SpelEx-L		
+välbefinande	välbefinnande	SpelEx-L		
+bönnan	banan	SpelEx-L		
+välbal	verbal	SpelEx-L		
+bör	bur	SpelEx-L		
+uträda	uthärda	SpelEx-L		
+sal	kärl	SpelEx-L		
+punt	pund	SpelEx-L		
+förtrevlig	förträfflig	SpelEx-L		
+förederi	förräderi	SpelEx-L		
+attrahöra	attrahera	SpelEx-L		
+presisera	precisera	SpelEx-L		
+ätenskap	äktenskap	SpelEx-L		
+särsklit	särskilt	SpelEx-L		
+sjön	skön	SpelEx-L		
+krumma	glömma	SpelEx-L		
+försvår	försvar	SpelEx-L		
+mjölighet	möjlighet	SpelEx-L		
+ord	ond	SpelEx-L		
+rol	roll	SpelEx-L		
+gåta	gata	SpelEx-L		
+träva	pröva	SpelEx-L		
+halt	hat	SpelEx-L		
+frokningsvis	förhoppningsvis	SpelEx-L		
+försäkning	försäkring	SpelEx-L		
+promenering	planering	SpelEx-L		
+visträv	Israel	SpelEx-L		
+potion	Portion	SpelEx-L		
+cyckla	cykla	SpelEx-L		
+sköna	tjäna	SpelEx-L		
+ett	ätt	SpelEx-L		
+nastan	nästan	SpelEx-L		
+liknade	liknande	SpelEx-L		
+inresserad	intresserad	SpelEx-L		
+clas	klass	SpelEx-L		
+marknadsförer	marknadsföra	SpelEx-L		
+upkommst	uppkomst	SpelEx-L		
+vaxin	vaccin	SpelEx-L		
+minsan	minsann	SpelEx-L		
+rymmligen	rimligen	SpelEx-L		
+omgäning	omgivning	SpelEx-L		
+värdsåskådning	världsåskådning	SpelEx-L		
+fregad	vrede	SpelEx-L		
+livstid	livsstil	SpelEx-L		
+avslö	avslå	SpelEx-L		
+met	mätt	SpelEx-L		
+motkionär	motionär	SpelEx-L		
+direktor	direktör	SpelEx-L		
+opprerativ	operativ	SpelEx-L		
+tupger	poker	SpelEx-L		
+beskyddarre	beskyddare	SpelEx-L		
+cjeck	check	SpelEx-L		
+idel	ideell	SpelEx-L		
+autatinsk	autentisk	SpelEx-L		
+autantinsk	autentisk	SpelEx-L		
+utäda	uthärda	SpelEx-L		
+inreserad	intresserad	SpelEx-L		
+intreserad	intresserad	SpelEx-L		
+avslör	avslå	SpelEx-L		
+differenciera	differentiera	SpelEx-WF		
+grädes	gräddes	SpelEx-WF		
+förenliggats	förenligasts	SpelEx-WF		
+artikekters	arkitekters 	SpelEx-WF		
+avlysningar	avlyssningar	SpelEx-WF		
+framstånded	framståendet	SpelEx-WF		
+strukturell	strukturellt	SpelEx-WF		
+upsättningena	uppsättningarna	SpelEx-WF		
+menskligaste	mänskligaste	SpelEx-WF		
+vetige	vettige	SpelEx-WF		
+kommerciel	kommersiell	SpelEx-WF		
+stridel	strider	SpelEx-WF		
+intaner	interner	SpelEx-WF		
+förestaningen	föreställningen	SpelEx-WF		
+uppundra	uppmuntra	SpelEx-WF		
+adekvota	adekvata	SpelEx-WF		
+spata	spotta	SpelEx-WF		
+satteliterna	satelliterna	SpelEx-WF		
+interation	intervention	SpelEx-WF		
+avsläppande	avslappnade	SpelEx-WF		
+fresh	fräsch	SpelEx-WF		
+berisad	berusad	SpelEx-WF		
+kes	tes	SpelEx-WF		
+framträd	framträdd	SpelEx-WF		
+ljut	rymt	SpelEx-WF		
+enda	ända	SpelEx-WF		
+stött	stört	SpelEx-WF		
+glansgryningar	granskningarna	SpelEx-WF		
+santra	centra	SpelEx-WF		
+blogilänken	blogginläggen	SpelEx-WF		
+definklaster	befintligaste	SpelEx-WF		
+anhaligaste	anhörigaste	SpelEx-WF		
+vinstän	vinsten	SpelEx-WF		
+karakter	karaktär	SpelEx-WF		
+vörknippat	förknippat	SpelEx-WF		
+uplusningen	upplysningen	SpelEx-WF		
+förfolger	förföljer	SpelEx-WF		
+bortsida	bortsedda	SpelEx-WF		
+utnüdganden	utnyttjanden	SpelEx-WF		
+katoligerna	katolikerna	SpelEx-WF		
+våningerna	våningarna	SpelEx-WF		
+ortodoxer	ortodoxe	SpelEx-WF		
+pensionerad	passionerat	SpelEx-WF		
+förskrägligt	förskräckligt	SpelEx-WF		
+hålplatsen	hållplatsen	SpelEx-WF		
+underhållning	oupphörlig	SpelEx-WF		
+låkelse	lockelse	SpelEx-WF		
+fullmagdenas	fullmakternas	SpelEx-WF		
+handveskorna	handväskorna	SpelEx-WF		
+främmande	främmanden	SpelEx-WF		
+sateliterna	satelliterna	SpelEx-WF		
+framtred	framträdd	SpelEx-WF		
+fo	få	SpelEx-PH		få fram data
+hungri	hungrig	SpelEx-PH		hungrig krokodil
+ätiska	etiska	SpelEx-PH		etiska förhållningsregler
+förhollingsregler	förhållningsregler	SpelEx-PH		etiska förhållningsregler
+livkraftigs	livskraftig	SpelEx-PH		livskraftig landsbygd
+landsbugt	landsbygd	SpelEx-PH		livskraftig landsbygd
+artikekten	arkitekten	SpelEx-PH		amerikanska arkitekten
+italjensk	italiensk	SpelEx-PH		italiensk arkitekt
+notwendigt	nödvändigtvis	SpelEx-PH		inte nödvändigtvis
+ciffror	siffror	SpelEx-PH		högre siffror
+signalspadning	signalspaning	SpelEx-PH		bedriva signalspaning
+underlunda	annorlunda	SpelEx-PH		träffa så många annorlunda människor
+meniskor	människor	SpelEx-PH		träffa så många annorlunda människor
+reflekton	reflektorn	SpelEx-PH		träffa reflektorn
+linije	linje	SpelEx-PH		köra över sådan linje
+katollsk	katolsk	SpelEx-PH		katolsk pater
+nationall	national	SpelEx-PH		sjunga nationalsången
+songen	sången	SpelEx-PH		sjunga nationalsången
+upskatta	uppskatta	SpelEx-PH		uppskatta verkligen ledigheten
+bergetd	berget	SpelEx-PH		lytta sig nedför berget
+beslågen	beslagen	SpelEx-PH		nya beslagen
+beslågan	beslagen	SpelEx-PH		nya beslagen
+profesionella	professionella	SpelEx-PH		professionella valobservatörer
+blåstigaheten	brottsligheten	SpelEx-PH		synliga brottsligheten
+ugilla	ogilla	SpelEx-PH		ogilla påven
+hemligtsam	hemligt	SpelEx-PH		hemligt samfund
+gryma	grymma	SpelEx-PH		grymma ögonen
+mottageren	mottagaren	SpelEx-PH		slutliga mottagaren
+hard	hårt	SpelEx-PH		hålla hårt i styret
+avtäknas	avteckna	SpelEx-PH		avteckna sig en ny profil
+ytlandet	utlandet	SpelEx-PH		höra hemma i utlandet
+varma	värma	SpelEx-PH		värma upp bakverk
+paviliong	paviljong	SpelEx-PH		liten paviljong
+hackspeck	hackspett	SpelEx-PH		energisk hackspett
+skolvagen	skalbagge	SpelEx-S		denna lilla skalbagge påminner om en myra 
+sprengdes	sprängdes	SpelEx-S		när tåget från moskva till s:t petersburg kom körande sprängdes bomben
+model	modell	SpelEx-PH		enhetlig modell
+födelsen	födseln	SpelEx-PH		kungliga födseln
+dogm	ton	SpelEx-PH		flexibel ton
+narcism	nazism	SpelEx-PH		se mellan nazism
+praktik	taktik	SpelEx-PH		testa denna taktik
+gån	gang	SpelEx-PH		slappna någon gang
+sakna	slappna	SpelEx-PH		slappna någon gang
+aktivetet	aktivitet	SpelEx-PH		offensiv aktivitet
+grovan	gruvan	SpelEx-PH		organisera strejken vid gruvan
+pladda	prag	SpelEx-S		av italienare som uppfyller prag
+host	högst	SpelEx-S		han klättrar högst upp i en gran
+eteologin	etiologin	SpelEx-S		etiologin kan vara antingen kongenital eller förvärvad genom trauma alternativt i vissa fall iatrogen
+otrogen	iatrogen	SpelEx-S		etiologin kan vara antingen kongenital eller förvärvad genom trauma alternativt i vissa fall iatrogen
+högrar	högre	SpelEx-S		då smackar jag ännu högre och viftar med min kvist
+meningsful	meningsfull	SpelEx-S		varje arbetsuppgift skall vara meningsfull
+otti	åttio	SpelEx-S		en val var tjugo kast eller åttio sillar eller fyra snes
+mistänkt	misstänkt	SpelEx-S		polisen försöker hitta saker som binder en misstänkt brottsling till brottet
+brotsling	brottsling	SpelEx-S		polisen försöker hitta saker som binder en misstänkt brottsling till brottet
+tärnaren	tränaren	SpelEx-S		att tränaren måste vara kompetent ses som en självklarhet
+händar	hävdar	SpelEx-S		han hävdar att flernationella stater är en nödvändighet för civiliserat liv
+nödvendighet	nödvändighet	SpelEx-S		han hävdar att flernationella stater är en nödvändighet för civiliserat liv
+ziviliserat	civiliserat	SpelEx-S		han hävdar att flernationella stater är en nödvändighet för civiliserat liv
+maktspellet	maktspelet	SpelEx-S		och vad gäller själva det inomsovjetiska maktspelet har gorbatjov demonstrerat outtröttlig taktisk kreativitet
+forsoning	försoning	SpelEx-S		men liksom paulus lägger johannes vikt vid den försoning som jesus död innebär
+karasterist	karakteristisk	SpelEx-S		denna mångfald på tillämpningssidan är karakteristisk för statistic
+låner	löner	SpelEx-S		människor med höga löner har ofta bättre hälsa än människor med låga loner
+bettre	bättre	SpelEx-S		människor med höga löner har ofta bättre hälsa än människor med låga loner
+an	än	SpelEx-S		människor med höga löner har ofta bättre hälsa än människor med låga loner
+dig	det	SpelEx-S		sen kan man droppa det i hoppsans mun
